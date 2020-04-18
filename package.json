@@ -9,8 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "sucrase": "^3.13.0",
+    "@types/node": "^13.13.0",
     "typescript": "^3.8.3"
   }
 }
