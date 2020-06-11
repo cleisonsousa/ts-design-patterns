@@ -1,1 +1,1 @@
-export * from './singleton-client';
+export * from './singleton-client'

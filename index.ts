@@ -1,13 +1,15 @@
 import { SingletonClient } from './creational-patterns'
 import { DecoratorClient } from './structural-patterns'
 
-for(let arg of process.argv) {
+const [, , ...argv] = process.argv;
+
+for(let arg of argv) {
   switch (arg) {
     case 'singleton':
-      SingletonClient.execute();
+      SingletonClient.execute()
       break
     case 'decorator':
-      DecoratorClient.execute();
+      DecoratorClient.execute()
       break
   }
 }
