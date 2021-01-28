@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sucrase-node index.ts"
+    "start": "sucrase-node src/index.ts"
   },
   "keywords": [],
   "author": "",
