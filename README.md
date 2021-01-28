@@ -7,7 +7,7 @@
   ⬜️| Abstract Factory
   ⬜️| Builder
   ⬜️| Prototype
-  ✅| [Singleton](https://github.com/cleisonsousa/ts-design-patterns/treemaster/src/creational-patterns/singleton/README.md)
+  ✅| [Singleton](https://github.com/cleisonsousa/ts-design-patterns/treemaster/src/creational-patterns/singleton)
 
 
 
