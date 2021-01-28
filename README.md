@@ -1,4 +1,4 @@
-# Desing Patterns com TypeScript 
+# Desing Patterns with TypeScript 
 
 ## Creational Patterns
   Done? | Name
